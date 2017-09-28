@@ -22,7 +22,7 @@ gcloud auth application-default login
 Make sure that you have `~/bin` in your `PATH`.
 Download shortcut to run docker container
 ```bash
-curl -L https://raw.githubusercontent.com/BidMath/kms-secrets/v0.1.0/bin/kms-secrets \
+curl -L https://raw.githubusercontent.com/Bidmath/kms-secrets/v0.1.0/bin/kms-secrets \
   -o ~/bin/kms-secrets
 chmod +x  ~/bin/kms-secrets
 ```
